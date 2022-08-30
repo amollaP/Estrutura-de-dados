@@ -171,3 +171,5 @@ listadupla.adicionar(30)
 listadupla.adicionar(30)
 listadupla.adicionar(60)
 listadupla.inserir(2, 2)
+
+print(listadupla)
